@@ -1,0 +1,12 @@
+Matriculation number: 200017941
+
+Individual Report
+For this practical the approach was to create a list of requirements and then assign each person a certain number to complete. 
+We then had a series of deadlines throughout the development period where we had to complete certain requirements. To ensure that 
+the development was going smoothly we had occasional meetings in the labs where we would keep each other in-check and assisted each 
+other when needed.
+
+As of my contribution, I mainly worked in implementing the additional requirements. I wrote code to analyse the pattern of user activity. 
+I had calculations for the reply, tweet, retweet, friend, and follower count for the given user. And I was able to plot these data values 
+as a line graph. So by simply entering the username, all the relevant information of the user’s activity will be displayed. 
+
